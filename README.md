@@ -26,6 +26,15 @@ We're recording the field as we move through it.
 
 ---
 
+## Related reading and discussion
+
+Two public papers examine questions adjacent to these field notes:
+
+- [Operational Will (A7)](https://github.com/Zawwarsami16/Public-Research-Tree/tree/main/A/A7) — when an agent should return to an unfinished commitment, initiate, or deliberately refrain. [Discuss the test boundary](https://github.com/Zawwarsami16/Public-Research-Tree/issues/7).
+- [From Knowing to Doing (A8)](https://github.com/Zawwarsami16/Public-Research-Tree/tree/main/A/A8) — how to distinguish tool access and reported action from independently verified outcomes. [Discuss execution evidence](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8).
+
+The papers are preprints and the questions remain open to counterexamples.
+
 ## Format
 
 Each note is dated. Can be short (a question that opened) or long (a position being worked out). Revisions and updates to existing positions are marked with the revision date.
